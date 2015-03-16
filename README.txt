@@ -1,6 +1,6 @@
 Enigma Machine
 
-Enigma Machine has the following classed:
+Enigma Machine has the following classes:
 
 Plug, Plugboard, Rotor, Reflector, BasicRotor, TurnoverRotor, EnigmaFile, EnigmaMachine, Challenge1, Challenge2, Challenge3.
 
